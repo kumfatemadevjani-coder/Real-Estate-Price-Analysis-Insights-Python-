@@ -56,4 +56,19 @@ The goal is to answer real-world business questions that help understand **what 
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🔍 Key Insights (Example)
+- RERA-approved properties tend to have a higher average price.
+- Certain localities show significantly higher price per sqft.
+- Builder reputation impacts pricing.
+- Larger homes do not always have a higher rate per sqft.
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository
+2. Install required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+
